@@ -1,0 +1,4 @@
+101	John Doe	85	90	80
+102	Jane Smith	78	88	84
+103	Emily Davis	92	76	89
+104	Michael Brown	88	81	95
